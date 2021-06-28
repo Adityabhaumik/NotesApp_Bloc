@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89682431115",
+    "project_id": "blocnotes-550ad",
+    "storage_bucket": "blocnotes-550ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89682431115:android:7ec45f5b620a09c2bd188e",
+        "android_client_info": {
+          "package_name": "com.aditya.note_taking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89682431115-nogkpgn9iv1u73tn8rjccjrdgecsvsd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfAEhXaLX8ZKcG2FJySS2LgpXP8RsWZt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89682431115-nogkpgn9iv1u73tn8rjccjrdgecsvsd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
